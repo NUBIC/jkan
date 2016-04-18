@@ -1,214 +1,214 @@
 - name: Aging, geriatrics, and eldercare
-  featured: true
+  featured: false
 - name: Allergies
-  featured: true
+  featured: false
 - name: Alzheimer's disease
-  featured: true
+  featured: false
 - name: Amyotrophic Lateral Sclerosis (ALS)
-  featured: true
+  featured: false
 - name: Arthritis
-  featured: true
+  featured: false
 - name: Asthma
-  featured: true
+  featured: false
 - name: Back and spine
-  featured: true
+  featured: false
 - name: Behavioral symptoms
-  featured: true
+  featured: false
 - name: Behavior change
-  featured: true
+  featured: false
 - name: Bipolar disorder
-  featured: true
+  featured: false
 - name: Birth (partruition)
-  featured: true
+  featured: false
 - name: Bladder and urinary tract
-  featured: true
+  featured: false
 - name: Blood and bleeding disorders
-  featured: true
+  featured: false
 - name: Brain and nervous system
-  featured: true
+  featured: false
 - name: Brain disease
-  featured: true
+  featured: false
 - name: Breast disease
-  featured: true
+  featured: false
 - name: Bronchiectasis
-  featured: true
+  featured: false
 - name: Cancer
-  featured: true
+  featured: false
 - name: Cardiovascular
-  featured: true
+  featured: false
 - name: Cartilage, joints, muscles
-  featured: true
+  featured: false
 - name: CAT Scan (Radiology, Xray, CAT Scan, Medical Imaging)
-  featured: true
+  featured: false
 - name: Cervical cancer
-  featured: true
+  featured: false
 - name: Children and adolescent clinical trials
   featured: true
 - name: Chronic obstructive pulmonary disease (COPD)
-  featured: true
+  featured: false
 - name: Circulation
-  featured: true
+  featured: false
 - name: Cirrhosis of the liver
-  featured: true
+  featured: false
 - name: Cosmetic procedures and surgery
-  featured: true
+  featured: false
 - name: Crohn's disease
-  featured: true
+  featured: false
 - name: Cystic fibrosis
-  featured: true
+  featured: false
 - name: Dementia
-  featured: true
+  featured: false
 - name: Depression and mood disorders
-  featured: true
+  featured: false
 - name: Diabetes, endocrine, and metabolism
-  featured: true
+  featured: false
 - name: Diet
   featured: true
 - name: Digestive system
-  featured: true
+  featured: false
 - name: Ears, nose, throat, mouth
-  featured: true
+  featured: false
 - name: Epilepsy
-  featured: true
+  featured: false
 - name: Exercise
-  featured: true
+  featured: false
 - name: Eyes
-  featured: true
+  featured: false
 - name: Fibroids
-  featured: true
+  featured: false
 - name: General surgery
-  featured: true
+  featured: false
 - name: Genetic testing/counseling
-  featured: true
+  featured: false
 - name: Gynecology (OB/GYN)
-  featured: true
+  featured: false
 - name: Hand surgery
-  featured: true
+  featured: false
 - name: Headache
-  featured: true
+  featured: false
 - name: Healthy lifestyle
-  featured: true
+  featured: false
 - name: Hearing
-  featured: true
+  featured: false
 - name: Heart disease
-  featured: true
+  featured: false
 - name: Hepatitis A, B, & C
-  featured: true
+  featured: false
 - name: Hernias
-  featured: true
+  featured: false
 - name: HIV/AIDS
-  featured: true
+  featured: false
 - name: Infectious disease
-  featured: true
+  featured: false
 - name: Infertility
-  featured: true
+  featured: false
 - name: Inflammatory bowel disease
-  featured: true
+  featured: false
 - name: Influenza
-  featured: true
+  featured: false
 - name: Irritable bowel syndrome
-  featured: true
+  featured: false
 - name: Kidney
-  featured: true
+  featured: false
 - name: Labor pain
-  featured: true
+  featured: false
 - name: Liver disorders
-  featured: true
+  featured: false
 - name: Lungs and breathing problems
-  featured: true
+  featured: false
 - name: Lupus
-  featured: true
+  featured: false
 - name: Medical imaging (radiology, Xray, CAT Scan, medical imaging)
-  featured: true
+  featured: false
 - name: Medicine, Health and Life Sciences
   featured: true
 - name: Meditation
-  featured: true
+  featured: false
 - name: Menopause
-  featured: true
+  featured: false
 - name: Mental health
-  featured: true
+  featured: false
 - name: Metabolic bone disease
-  featured: true
+  featured: false
 - name: Mood disorders
-  featured: true
+  featured: false
 - name: Multiple sclerosis
-  featured: true
+  featured: false
 - name: Neurology
-  featured: true
+  featured: false
 - name: Nutrition
-  featured: true
+  featured: false
 - name: OB/GYN
-  featured: true
+  featured: false
 - name: Obesity
-  featured: true
+  featured: false
 - name: Osteoporosis
-  featured: true
+  featured: false
 - name: Ovarian cancer
-  featured: true
+  featured: false
 - name: Pain management
-  featured: true
+  featured: false
 - name: Palliative care and hospice
-  featured: true
+  featured: false
 - name: Parkinson's disease/movement disorders
-  featured: true
+  featured: false
 - name: Partruition (childbirth)
-  featured: true
+  featured: false
 - name: Patient Reported Outcomes
   featured: true
 - name: Peripheral Artery Disease
-  featured: true
+  featured: false
 - name: Physical activity
-  featured: true
+  featured: false
 - name: Pregnancy
-  featured: true
+  featured: false
 - name: Primary Progressive Aphasia Study (PPA)
-  featured: true
+  featured: false
 - name: Psychiatry
-  featured: true
+  featured: false
 - name: Pulmonary fibrosis
-  featured: true
+  featured: false
 - name: Pulmonary hypertension
-  featured: true
+  featured: false
 - name: Radiology (radiology, Xray, CAT Scan, medical imaging)
-  featured: true
+  featured: false
 - name: Schizophrenia
-  featured: true
+  featured: false
 - name: Scleroderma
-  featured: true
+  featured: false
 - name: Sedentary activity
-  featured: true
+  featured: false
 - name: Seizures
-  featured: true
+  featured: false
 - name: Sickle cell
-  featured: true
+  featured: false
 - name: Sinus problems
-  featured: true
+  featured: false
 - name: Skin diseases
-  featured: true
+  featured: false
 - name: Sleep Disorders
-  featured: true
+  featured: false
 - name: Smoking or smoking cessation
-  featured: true
+  featured: false
 - name: Social sciences
   featured: true
 - name: Sports injuries
-  featured: true
+  featured: false
 - name: Stress management
-  featured: true
+  featured: false
 - name: SuperAging Study
-  featured: true
+  featured: false
 - name: Transplantation
-  featured: true
+  featured: false
 - name: Urology
-  featured: true
+  featured: false
 - name: Uterine diseases
-  featured: true
+  featured: false
 - name: Weight loss
-  featured: true
+  featured: false
 - name: Weight management
-  featured: true
+  featured: false
 - name: Wellness and fitness
-  featured: true
+  featured: false
 - name: Women's health
-  featured: true
+  featured: false
