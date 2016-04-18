@@ -23,9 +23,15 @@ layout: default
             </div>
             <div class="panel-body">
               <h3>
-                <a href="{{ organization_url }}" about="{{ organization_url }}" property="foaf:homepage">
-                  <span property="foaf:name">{{ organization.title }}</span>
-                </a>
+                {% if organization.url and organization.url != empty %}
+                  <a href="{{ organization.url }}" about="{{ organization.url }}" property="foaf:homepage">
+                    <span property="foaf:name">{{ organization.title }}</span>
+                  </a>
+                {% else %}
+                  <a href="{{ organization_url }}" about="{{ organization_url }}" property="foaf:homepage">
+                    <span property="foaf:name">{{ organization.title }}</span>
+                  </a>
+                {% endif %}
               </h3>
               {{ organization.description }}
             </div>
