@@ -1,52 +1,214 @@
-- name: Arts / Culture / History
-  logo: /img/categories/arts-culture-history.svg
+- name: Aging, geriatrics, and eldercare
   featured: true
-- name: Budget / Finance
-  logo: /img/categories/budget-finance.svg
-  logo_credit: Renan Ferreira Santos from the Noun Project
+- name: Allergies
   featured: true
-- name: Economy
-  logo: /img/categories/economy.svg
-  logo_credit: Vectors Market from the Noun Project
+- name: Alzheimer's disease
   featured: true
-- name: Education
-  logo: /img/categories/education.svg
-  logo_credit: Sergey Patutin from the Noun Project
+- name: Amyotrophic Lateral Sclerosis (ALS)
   featured: true
-- name: Elections / Politics
-  logo: /img/categories/elections-politics.svg
-  logo_credit: Jean Soo from the Noun Project
+- name: Arthritis
   featured: true
-- name: Environment
-  logo: /img/categories/environment.svg
+- name: Asthma
   featured: true
-- name: Food
-  logo: /img/categories/food.svg
-  logo_credit: Creative Stall from the Noun Project
+- name: Back and spine
   featured: true
-- name: Health / Human Services
-  logo: /img/categories/health-human-services.svg
-  logo_credit: Timothy Miller from the Noun Project
+- name: Behavioral symptoms
   featured: true
-- name: Parks / Recreation
-  logo: /img/categories/parks-recreation.svg
-  logo_credit: Pipe Rosas Licht from the Noun Project
+- name: Behavior change
   featured: true
-- name: Planning / Zoning
-  logo: /img/categories/planning-zoning.svg
+- name: Bipolar disorder
   featured: true
-- name: Public Safety
-  logo: /img/categories/public-safety.svg
-  logo_credit: Rohith M S from the Noun Project
+- name: Birth (partruition)
   featured: true
-- name: Real Estate / Land Records
-  logo: /img/categories/real-estate-land-records.svg
+- name: Bladder and urinary tract
   featured: true
-- name: Transportation
-  logo: /img/categories/transportation.svg
-  logo_credit: Dmitry Baranovskiy from the Noun Project
+- name: Blood and bleeding disorders
   featured: true
-- name: Uncategorized
-  logo: /img/categories/uncategorized.svg
-  logo_credit: Edward Boatman from the Noun Project
+- name: Brain and nervous system
+  featured: true
+- name: Brain disease
+  featured: true
+- name: Breast disease
+  featured: true
+- name: Bronchiectasis
+  featured: true
+- name: Cancer
+  featured: true
+- name: Cardiovascular
+  featured: true
+- name: Cartilage, joints, muscles
+  featured: true
+- name: CAT Scan (Radiology, Xray, CAT Scan, Medical Imaging)
+  featured: true
+- name: Cervical cancer
+  featured: true
+- name: Children and adolescent clinical trials
+  featured: true
+- name: Chronic obstructive pulmonary disease (COPD)
+  featured: true
+- name: Circulation
+  featured: true
+- name: Cirrhosis of the liver
+  featured: true
+- name: Cosmetic procedures and surgery
+  featured: true
+- name: Crohn's disease
+  featured: true
+- name: Cystic fibrosis
+  featured: true
+- name: Dementia
+  featured: true
+- name: Depression and mood disorders
+  featured: true
+- name: Diabetes, endocrine, and metabolism
+  featured: true
+- name: Diet
+  featured: true
+- name: Digestive system
+  featured: true
+- name: Ears, nose, throat, mouth
+  featured: true
+- name: Epilepsy
+  featured: true
+- name: Exercise
+  featured: true
+- name: Eyes
+  featured: true
+- name: Fibroids
+  featured: true
+- name: General surgery
+  featured: true
+- name: Genetic testing/counseling
+  featured: true
+- name: Gynecology (OB/GYN)
+  featured: true
+- name: Hand surgery
+  featured: true
+- name: Headache
+  featured: true
+- name: Healthy lifestyle
+  featured: true
+- name: Hearing
+  featured: true
+- name: Heart disease
+  featured: true
+- name: Hepatitis A, B, & C
+  featured: true
+- name: Hernias
+  featured: true
+- name: HIV/AIDS
+  featured: true
+- name: Infectious disease
+  featured: true
+- name: Infertility
+  featured: true
+- name: Inflammatory bowel disease
+  featured: true
+- name: Influenza
+  featured: true
+- name: Irritable bowel syndrome
+  featured: true
+- name: Kidney
+  featured: true
+- name: Labor pain
+  featured: true
+- name: Liver disorders
+  featured: true
+- name: Lungs and breathing problems
+  featured: true
+- name: Lupus
+  featured: true
+- name: Medical imaging (radiology, Xray, CAT Scan, medical imaging)
+  featured: true
+- name: Medicine, Health and Life Sciences
+  featured: true
+- name: Meditation
+  featured: true
+- name: Menopause
+  featured: true
+- name: Mental health
+  featured: true
+- name: Metabolic bone disease
+  featured: true
+- name: Mood disorders
+  featured: true
+- name: Multiple sclerosis
+  featured: true
+- name: Neurology
+  featured: true
+- name: Nutrition
+  featured: true
+- name: OB/GYN
+  featured: true
+- name: Obesity
+  featured: true
+- name: Osteoporosis
+  featured: true
+- name: Ovarian cancer
+  featured: true
+- name: Pain management
+  featured: true
+- name: Palliative care and hospice
+  featured: true
+- name: Parkinson's disease/movement disorders
+  featured: true
+- name: Partruition (childbirth)
+  featured: true
+- name: Patient Reported Outcomes
+  featured: true
+- name: Peripheral Artery Disease
+  featured: true
+- name: Physical activity
+  featured: true
+- name: Pregnancy
+  featured: true
+- name: Primary Progressive Aphasia Study (PPA)
+  featured: true
+- name: Psychiatry
+  featured: true
+- name: Pulmonary fibrosis
+  featured: true
+- name: Pulmonary hypertension
+  featured: true
+- name: Radiology (radiology, Xray, CAT Scan, medical imaging)
+  featured: true
+- name: Schizophrenia
+  featured: true
+- name: Scleroderma
+  featured: true
+- name: Sedentary activity
+  featured: true
+- name: Seizures
+  featured: true
+- name: Sickle cell
+  featured: true
+- name: Sinus problems
+  featured: true
+- name: Skin diseases
+  featured: true
+- name: Sleep Disorders
+  featured: true
+- name: Smoking or smoking cessation
+  featured: true
+- name: Social sciences
+  featured: true
+- name: Sports injuries
+  featured: true
+- name: Stress management
+  featured: true
+- name: SuperAging Study
+  featured: true
+- name: Transplantation
+  featured: true
+- name: Urology
+  featured: true
+- name: Uterine diseases
+  featured: true
+- name: Weight loss
+  featured: true
+- name: Weight management
+  featured: true
+- name: Wellness and fitness
+  featured: true
+- name: Women's health
   featured: true

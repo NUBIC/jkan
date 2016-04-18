@@ -1,0 +1,6 @@
+---
+title: Northwestern University Allergy, Asthma, and Immunology Clinical Research Unit
+description: The Division of Allergy/Immunology originated over 75 years ago when voluntary faculty cared for economically deprived patients under the leadership of the late Leon Unger, MD and subsequently Samuel M. Feinberg, MD. Since the early years, primary objectives of division faculty have been high-quality patient care and education of patients through the medical school's affiliated hospitals and care sites, and the education of students, residents, and fellows. We have approximately 20 faculty members, 16 of them full-time, dedicated to clinical practice, research and teaching in Allergy-Immunology. The division boasts a robust research portfolio, with over $5.2 million in annual NIH grants, as well as several important gifts. Through Northwestern Medicine care facilities, division faculty offer active clinical service, with approximately 12,000 annual patient visits.
+logo: http://www.feinberg.northwestern.edu/communications/images/NM.jpg
+url: http://www.medicine.northwestern.edu/divisions/allergy-immunology/
+---
