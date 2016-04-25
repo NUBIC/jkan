@@ -14,6 +14,4 @@ category:
   - Diet
 maintainer: Paul Friedman
 maintainer_email: p-friedman@northwestern.edu
-author: Paul Friedman
-author_email: p-friedman@northwestern.edu
 ---

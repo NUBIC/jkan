@@ -12,6 +12,4 @@ category:
   - Social sciences
 maintainer: Katy Wortman
 maintainer_email: kwortman@northwestern.edu
-author: David Cella
-author_email: d-cella@northwestern.edu
 ---
