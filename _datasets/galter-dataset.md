@@ -10,6 +10,6 @@ resources:
 license: 'http://www.opendefinition.org/licenses/odc-by'
 category:
   - Healthy lifestyle
-maintainer: Violeta Ilik
-maintainer_email: violeta.ilik@northwestern.edu
+maintainer: NUBIC
+maintainer_email: nubic-dev@northwestern.edu
 ---
